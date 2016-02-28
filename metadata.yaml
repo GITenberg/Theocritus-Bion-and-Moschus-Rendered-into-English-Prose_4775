@@ -1,0 +1,50 @@
+_repo: Theocritus-Bion-and-Moschus-Rendered-into-English-Prose_4775
+contributor:
+  creator:
+    editor:
+      agent_name: Lang, Andrew
+      alias: Lang, Walter Andrew
+      birthdate: 1844
+      deathdate: 1912
+      gutenberg_agent_id: '79'
+      url: http://www.gutenberg.org/2009/agents/79
+      wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+creator:
+  authors:
+  - agent_name: Bion, of Phlossa near Smyrna
+    gutenberg_agent_id: '1575'
+    url: http://www.gutenberg.org/2009/agents/1575
+    wikipedia: http://en.wikipedia.org/wiki/Bion_of_Smyrna
+  - agent_name: Theocritus
+    aliases:
+    - Theokritos
+    - Θεόκριτος
+    - Theókritos
+    birthdate: -300
+    deathdate: -260
+    gutenberg_agent_id: '1574'
+    url: http://www.gutenberg.org/2009/agents/1574
+    wikipedia: http://en.wikipedia.org/wiki/Theocritus
+  - agent_name: Moschus
+    aliases:
+    - Moskhos
+    - Moschus, of Syracuse
+    gutenberg_agent_id: '1576'
+    url: http://www.gutenberg.org/2009/agents/1576
+    wikipedia: http://en.wikipedia.org/wiki/Moschus
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek poetry -- Translations into English'
+- !lcsh 'Pastoral poetry, Greek -- Translations into English'
+title: Theocritus, Bion and Moschus, Rendered into English Prose
+url: http://www.gutenberg.org/ebooks/4775
