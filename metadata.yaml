@@ -1,5 +1,5 @@
 _repo: Theocritus-Bion-and-Moschus-Rendered-into-English-Prose_4775
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -10,6 +10,9 @@ contributor:
       gutenberg_agent_id: '79'
       url: http://www.gutenberg.org/2009/agents/79
       wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+covers:
+- cover_type: archival
+  image_path: 4775-h/images/coverb.jpg
 creator:
   authors:
   - agent_name: Bion, of Phlossa near Smyrna
@@ -34,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1576
     wikipedia: http://en.wikipedia.org/wiki/Moschus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4775#Theocritus-Bion-and-Moschus-Rendered-into-English-Prose
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
