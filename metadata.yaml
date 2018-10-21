@@ -1,5 +1,5 @@
 _repo: Theocritus-Bion-and-Moschus-Rendered-into-English-Prose_4775
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -52,5 +52,6 @@ subjects:
 - !lcc 'PA'
 - !lcsh 'Greek poetry -- Translations into English'
 - !lcsh 'Pastoral poetry, Greek -- Translations into English'
+- GITenberg
 title: Theocritus, Bion and Moschus, Rendered into English Prose
 url: http://www.gutenberg.org/ebooks/4775
